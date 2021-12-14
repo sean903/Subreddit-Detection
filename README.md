@@ -16,8 +16,9 @@ The best performing machine learning models managed to identify the correct subr
 
 #### Length of title 
 The length of the title of each subreddit was compared and used as a feature. The chess subreddit titles are slighlty longer than AnarchyChess subreddit.
-
+<div align="center">
 <img src="./graphs/reddit_title_length.png" alt="Drawing" style="width: 300px;"/>
+</div>
 
 #### Polarity and Subjectivity
 The polarity and subjectivity of the titles were measured using the TextBlob library. Polarity measures sentiment between -1 and 1 (-1 being negative sentiment and 1 being positive sentiment). Subjectivity defines if a statement is more factual or opionated. The analysis showed that AnarchyChess users tended to use slightly more emotive languange compared to the Chess subreddit users.
