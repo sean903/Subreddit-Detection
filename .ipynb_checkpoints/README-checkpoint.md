@@ -10,7 +10,9 @@ The best performing machine learning models managed to identify the correct subr
 ---
 ### Data Analysis
 #### Popular words 
+<div align="center">
 <img src="./graphs/word_art.png" alt="Drawing" style="width: 500px;"/>
+</div>
 
 #### Length of title 
 The length of the title of each subreddit was compared and used as a feature. The chess subreddit titles are slighlty longer than AnarchyChess subreddit.
